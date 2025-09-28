@@ -5,10 +5,7 @@ This project is a Car Price Prediction Web Application that uses Machine Learnin
 
 The model is trained on historical car data and deployed in a user-friendly web interface.
 
-# 👉 Click here to use the App
-
-📂 View GitHub Repository
-
+# 👉 Click here to use the App https://car--price-prediction.streamlit.app/
 # ⚡ Features
 
 Predicts Car Resale Price in real-time
